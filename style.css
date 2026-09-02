@@ -220,11 +220,26 @@ nav a {
   }
 
   .hero h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
 
   .hero p {
-    font-size: 20px;
+    font-size: 15px;
+  }
+
+  .hero span {
+    color: var(--third-color);
+  }
+
+  .hero button {
+    width: 0px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: var(--third-color);
+    font-family: var(--main-font);
+    font-size: 15px;
+    font-weight: 550;
+    color: var(--primary-color);
   }
 
   header h1 {
@@ -232,7 +247,25 @@ nav a {
   }
 
   nav a {
-    font-size: 15px;
+    font-size: 20px;
+  }
+
+  .food-card span {
+    font-size: 20px;
+  }
+
+  .food-card h3 {
+    font-size: 20px;
+  }
+
+  .food-card p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-size: 13px;
+  }
+
+  .food-card img {
+    height: 140px;
   }
 }
 
