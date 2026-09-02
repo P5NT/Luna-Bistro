@@ -1,5 +1,5 @@
 :root {
-  --main-font: Montserrat;
+  --main-font: "Montserrat", sans-serif;
   --primary-color: rgb(76, 20, 38);
   --secondary-color: rgb(250, 243, 224);
   --third-color: rgb(212, 175, 55);
